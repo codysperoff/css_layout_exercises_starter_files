@@ -38,7 +38,6 @@ nav li {
 nav li::after {
 	content: "|";
 	margin-left: 5px;
-	margin-bottom: 5px;
 }
 
 nav a:hover {
